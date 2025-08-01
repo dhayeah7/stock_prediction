@@ -1,0 +1,2 @@
+2025-04-09 16:14:19,607 - ERROR - Error in data preparation: module 'ta.volatility' has no attribute 'lband'
+2025-04-09 16:14:19,607 - ERROR - Error in price prediction pipeline: module 'ta.volatility' has no attribute 'lband'

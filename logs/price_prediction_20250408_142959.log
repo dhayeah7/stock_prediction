@@ -1,0 +1,2 @@
+2025-04-08 14:30:00,552 - ERROR - Error in data preparation: You are trying to merge on datetime64[ns] and object columns for key 'Date'. If you wish to proceed you should use pd.concat
+2025-04-08 14:30:00,552 - ERROR - Error in price prediction pipeline: You are trying to merge on datetime64[ns] and object columns for key 'Date'. If you wish to proceed you should use pd.concat

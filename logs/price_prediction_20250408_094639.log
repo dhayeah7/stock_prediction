@@ -1,0 +1,1 @@
+2025-04-08 09:51:03,476 - ERROR - Error in price prediction pipeline: X has 5 features, but SimpleImputer is expecting 4080 features as input.

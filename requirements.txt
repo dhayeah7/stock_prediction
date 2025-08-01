@@ -1,0 +1,13 @@
+pandas
+numpy
+requests
+yfinance
+beautifulsoup4
+selenium
+webdriver-manager
+scikit-learn
+torch
+matplotlib
+seaborn
+python-dotenv
+feedparser

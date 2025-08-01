@@ -1,0 +1,1 @@
+2025-04-09 16:13:32,189 - ERROR - Error in price prediction pipeline: agg function failed [how->mean,dtype->object]

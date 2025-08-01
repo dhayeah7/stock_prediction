@@ -1,0 +1,2 @@
+2025-04-09 16:15:42,295 - ERROR - Error in data preparation: 'sentiment_score'
+2025-04-09 16:15:42,295 - ERROR - Error in price prediction pipeline: 'sentiment_score'

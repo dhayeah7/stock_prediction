@@ -1,0 +1,1 @@
+2025-04-09 16:12:36,868 - ERROR - Error in price prediction pipeline: "Column(s) ['sentiment_score'] do not exist"

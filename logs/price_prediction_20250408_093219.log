@@ -1,0 +1,1 @@
+2025-04-08 09:32:42,934 - ERROR - Error in price prediction pipeline: y should be a 1d array, got an array of shape (349, 5) instead.
